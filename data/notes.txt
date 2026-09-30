@@ -1,0 +1,2 @@
+1|Welcome to NoteBox|This is your first note.
+2|Java Practice|Practice classes, objects, ArrayList, and file handling.
